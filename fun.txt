@@ -14,5 +14,9 @@ Rating: 2
 Commit early, commit often. A tip for version controlling - not for relationships
 
 Rating: 2
- 
 
+---
+
+People used to laugh at me when I would say "I want to be a comedian", well nobody's laughing now.
+
+Rating: -1
