@@ -1,0 +1,6 @@
+### Ahmet's joke
+
+What did the Java Code say to the C code? 
+	You’ve got no class.
+How did C respond?
+	Segmentation fault (core dumped)
